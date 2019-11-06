@@ -87,11 +87,25 @@ const data = [
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
   },
   {
-    title: 'test',
+    title: 'First Day for WEBPT11 Students!',
+    date: 'September 3rd, 2019',
+    firstParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.',
+    secondParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.st',
+    thirdParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.'
+  },
+  {
+    title: 'Costume Contest Tonight!',
+    date: 'October 31, 2019',
+    firstParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.',
+    secondParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.st',
+    thirdParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.'
+  },
+  {
+    title: 'Components are AMAZING!',
     date: 'November 5th, 2019',
-    firstParagraph: 'test',
-    secondParagraph: 'test',
-    thirdParagraph: 'test'
+    firstParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.',
+    secondParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.st',
+    thirdParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.'
   }
 ];
 
