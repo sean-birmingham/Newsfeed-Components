@@ -85,6 +85,27 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: 'First Day for WEBPT11 Students!',
+    date: 'September 3rd, 2019',
+    firstParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.',
+    secondParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.st',
+    thirdParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.'
+  },
+  {
+    title: 'Costume Contest Tonight!',
+    date: 'October 31, 2019',
+    firstParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.',
+    secondParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.st',
+    thirdParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.'
+  },
+  {
+    title: 'Components are AMAZING!',
+    date: 'November 5th, 2019',
+    firstParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.',
+    secondParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.st',
+    thirdParagraph: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum at varius vel pharetra vel. Mattis molestie a iaculis at erat pellentesque adipiscing. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Interdum velit laoreet id donec ultrices tincidunt arcu. Placerat in egestas erat imperdiet. Bibendum ut tristique et egestas quis. Leo in vitae turpis massa. In cursus turpis massa tincidunt dui ut ornare lectus. Tincidunt dui ut ornare lectus sit amet est.'
   }
 ];
 
@@ -112,3 +133,49 @@ const data = [
   Step 5: Add a new article to the array. Make sure it is in the same format as the others. Refresh the page to see the new article.
 
 */
+
+const createArticle = (title, date, firstParagraph, secondParagraph, thirdParagraph) => {
+  const article = document.createElement('div');
+  const articleTitle = document.createElement('h2');
+  const articleDate = document.createElement('p');
+  const firstPar = document.createElement('p');
+  const secondPar = document.createElement('p');
+  const thirdPar = document.createElement('p');
+  const expandBtn = document.createElement('span');
+
+  article.appendChild(articleTitle);
+  article.appendChild(articleDate);
+  article.appendChild(firstPar);
+  article.appendChild(secondPar);
+  article.appendChild(thirdPar);
+  article.appendChild(expandBtn);
+
+  // set class names 
+  article.classList.add('article');
+  articleTitle.classList.add('date');
+  expandBtn.classList.add('expandButton');
+
+
+  // add content 
+  articleTitle.textContent = title;
+  articleDate.textContent = date;
+  firstPar.textContent = firstParagraph;
+  secondPar.textContent = secondParagraph;
+  thirdPar.textContent = thirdParagraph;
+  expandBtn.textContent = 'Expand';
+
+  // funtionality 
+  expandBtn.addEventListener('click', () => {
+    article.classList.toggle('article-open');
+  });
+
+  return article;
+}
+
+const parentComponent = document.querySelector('.articles');
+
+let articles = data.map(article => {
+  const newArticle = createArticle(article.title, article.date, article.firstParagraph, article.secondParagraph, article.thirdParagraph);
+  parentComponent.appendChild(newArticle)
+});
+
